@@ -30,3 +30,11 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+.scrollerBox {
+    width: 100%;
+}
+
+.box1 {
+    height: 100px;
+}
